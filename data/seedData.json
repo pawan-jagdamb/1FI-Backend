@@ -1,0 +1,385 @@
+{
+  "products": [
+    {
+      "name": "iPhone 17 Pro",
+      "slug": "iphone-17-pro",
+      "description": "Latest iPhone with advanced features, premium design, and cutting-edge technology",
+      "variants": [
+        {
+          "name": "256GB - Natural Titanium",
+          "mrp": 134900,
+          "price": 124900,
+          "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500&h=500&fit=crop",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 5000,
+                "description": "Get ₹5,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 3000,
+                "description": "Get ₹3,000 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 2000,
+                "description": "Get ₹2,000 cashback on 24 months EMI"
+              }
+            }
+          ]
+        },
+        {
+          "name": "512GB - Cosmic Orange",
+          "mrp": 154900,
+          "price": 144900,
+          "image": "https://images.snapmint.com/product_assets/images/001/154/793/large/open-uri20251021-2855301-14q9hu6?1761017541",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 6000,
+                "description": "Get ₹6,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 3500,
+                "description": "Get ₹3,500 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 2500,
+                "description": "Get ₹2,500 cashback on 24 months EMI"
+              }
+            }
+          ]
+        },
+        {
+          "name": "256GB - Silver",
+          "mrp": 134900,
+          "price": 124900,
+          "image": "https://images.snapmint.com/product_assets/images/001/154/806/large/open-uri20251021-2855301-v0364x?1761017558",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 5000,
+                "description": "Get ₹5,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 3000,
+                "description": "Get ₹3,000 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 2000,
+                "description": "Get ₹2,000 cashback on 24 months EMI"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "slug": "samsung-s24-ultra",
+      "description": "Premium Android flagship with S Pen, advanced camera system, and AI-powered features",
+      "variants": [
+        {
+          "name": "256GB - Titanium Black",
+          "mrp": 124999,
+          "price": 114999,
+          "image": "data:image/jpeg;base64,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",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 4000,
+                "description": "Get ₹4,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 2500,
+                "description": "Get ₹2,500 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 1500,
+                "description": "Get ₹1,500 cashback on 24 months EMI"
+              }
+            }
+          ]
+        },
+        {
+          "name": "512GB - Titanium Black",
+          "mrp": 139999,
+          "price": 129999,
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&h=500&fit=crop",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 5000,
+                "description": "Get ₹5,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 3000,
+                "description": "Get ₹3,000 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 2000,
+                "description": "Get ₹2,000 cashback on 24 months EMI"
+              }
+            }
+          ]
+        },
+        {
+          "name": "256GB - Titanium Gray",
+          "mrp": 124999,
+          "price": 114999,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCeVBpeyBpnRgMb0pZ07Ynxr72BCC2LghVAQ&s",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 4000,
+                "description": "Get ₹4,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 2500,
+                "description": "Get ₹2,500 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 1500,
+                "description": "Get ₹1,500 cashback on 24 months EMI"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google Pixel 9 Pro",
+      "slug": "google-pixel-9-pro",
+      "description": "Pure Android experience with exceptional camera quality and Google AI integration",
+      "variants": [
+        {
+          "name": "128GB - Obsidian",
+          "mrp": 89999,
+          "price": 84999,
+          "image": "data:image/jpeg;base64,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",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 3000,
+                "description": "Get ₹3,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 2000,
+                "description": "Get ₹2,000 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 1000,
+                "description": "Get ₹1,000 cashback on 24 months EMI"
+              }
+            }
+          ]
+        },
+        {
+          "name": "256GB - Porcelain,",
+          "mrp": 99999,
+          "price": 94999,
+          "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/r/1/r/-original-imahggetvqe4aydn.jpeg?q=90",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 3500,
+                "description": "Get ₹3,500 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 2500,
+                "description": "Get ₹2,500 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 1500,
+                "description": "Get ₹1,500 cashback on 24 months EMI"
+              }
+            }
+          ]
+        },
+        {
+          "name": "128GB - Rose Quartz",
+          "mrp": 89999,
+          "price": 84999,
+          "image": "data:image/jpeg;base64,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",
+          "emiPlans": [
+            {
+              "tenure": 3,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 0,
+                "description": ""
+              }
+            },
+            {
+              "tenure": 6,
+              "interestRate": 0,
+              "cashback": {
+                "amount": 3000,
+                "description": "Get ₹3,000 cashback on 6 months EMI"
+              }
+            },
+            {
+              "tenure": 12,
+              "interestRate": 10.5,
+              "cashback": {
+                "amount": 2000,
+                "description": "Get ₹2,000 cashback on 12 months EMI"
+              }
+            },
+            {
+              "tenure": 24,
+              "interestRate": 12.5,
+              "cashback": {
+                "amount": 1000,
+                "description": "Get ₹1,000 cashback on 24 months EMI"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
