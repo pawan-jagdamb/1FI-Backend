@@ -48,8 +48,5 @@ const productSchema = new mongoose.Schema({
   timestamps: true
 });
 
-// Index for faster slug lookups
-productSchema.index({ slug: 1 });
-
 module.exports = mongoose.model('Product', productSchema);
 
